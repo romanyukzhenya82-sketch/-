@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPrompt Architect",
+  "description": "Professional prompt generator and market analyzer for crypto futures, options, and spot trading using Gemini 2.5.",
+  "requestFramePermissions": []
+}
